@@ -1,0 +1,7 @@
+verbos http
+
+get <--> select <--> mostrar
+post <--> insert <--> insertar, crear
+put <--> update <--> modificar todos los valores
+patch <--> <--> update <--> modificar los valores uno a uno, se especifica el valor a cambiar
+delete <--> delete <--> eliminar registros
